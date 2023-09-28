@@ -5,7 +5,7 @@
 
   ## Description 
 
-  This website allows users to take notes and save them to a webpage or delete them at any time
+  This website allows users to take notes and save them to the webpage or delete them at any time
 
 
   ## Table Of Contents
