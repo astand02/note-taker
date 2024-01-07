@@ -12,7 +12,6 @@
   - [Installation](#installation)
   - [Usage](#usage)
   - [Questions](#questions)
-  - [Acknowledgments](#acknowledgments)
 
 
   ## Installation
@@ -33,9 +32,3 @@
 
   https://github.com/astand02.
 
-
-  ## Acknowledgments
-
-  Was assisted by:
-  - Class work
-  - Tutoring 
