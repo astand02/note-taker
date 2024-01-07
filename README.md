@@ -23,8 +23,8 @@
   ## Usage 
 
   To use this website you can begin by clicking the 'Get Started' button that should be found in the center of the webpage. Once you have clicked the 'Get Started' button, you will be prompted to the screen shown below, this page will allow you to type notes and save them until the page is closed. If you would like to delete an unwanted note you may click the red trash can which will then delete your note permanently.
-![homePage](/readMe/noteTaker.png)
-![notesPage](/readMe/noteTaker2.png)
+![homePage](readMe/notes.png)
+![notePage](readMe/notes1.png)
 
   ## Questions 
 
